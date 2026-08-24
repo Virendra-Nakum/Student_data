@@ -4,12 +4,12 @@ A beginner-friendly Python project that collects personal information and demons
 
 ## 🚀 Features
 
-- Collects Name, Age, Height & Favourite Number
-- Performs type conversion using `int()` and `float()`
-- Displays data types using `type()`
-- Displays object identity using `id()`
-- Calculates approximate birth year
-- Uses f-strings for formatted output
+* Collects Name, Age, Height & Favourite Number
+* Performs type conversion using `int()` and `float()`
+* Displays data types using `type()`
+* Displays object identity using `id()`
+* Calculates approximate birth year
+* Uses f-strings for formatted output
 
 ## 🧠 Concepts Practiced
 
@@ -17,31 +17,69 @@ A beginner-friendly Python project that collects personal information and demons
 
 ## 🛠️ Technologies
 
-- Python 3
-- VS Code
-- Git & GitHub
+* Python 3
+* VS Code
+* Git & GitHub
+
+## ⚙️ Installation & Usage
+
+### 1. Install Python
+
+Download Python from the official website:
+
+https://www.python.org/downloads/
+
+After installation, check the Python version:
+
+```bash
+python --version
+```
+
+### 2. Clone the Repository
+
+Repository:
+
+https://github.com/Virendra-Nakum/Student_data
+
+Clone the project:
+
+```bash
+git clone https://github.com/Virendra-Nakum/Student_data.git
+```
+
+### 3. Open the Project
+
+```bash
+cd Student_data
+```
+
+### 4. Run the Program
+
+```bash
+python main.py
+```
 
 ## 📂 Project Structure
 
 ```text
-student_data/
+Student_data/
 ├── main.py
 ├── output.png
 └── README.md
+```
 
-🎯 Purpose
+## 🎯 Purpose
 
-This project was created to strengthen Python fundamentals and understand how Python handles different data types and objects.
+This project was created to strengthen **Python fundamentals** and understand how Python handles different data types and objects.
 
-📸 Output
+## 📸 Output
 
-The output.png file contains a screenshot of the program execution.
+The `output.png` file contains a screenshot of the program execution.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Virendra Nakum
+**Virendra Nakum**
 
-Python Learner | Data Science Enthusiast
+*Python Learner | Data Science Enthusiast*
 
 ⭐ If you find this project useful, consider giving it a star!
- 

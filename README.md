@@ -73,7 +73,7 @@ Student_data/
 This project was created to strengthen **Python fundamentals** and understand how Python handles different data types and objects.
 
 ## 📸 Output
-![programe output](uotput.png)
+![Programe Output](output.png)
 
 The `output.png` file contains a screenshot of the program execution.
 

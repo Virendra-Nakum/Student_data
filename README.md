@@ -13,11 +13,11 @@ A beginner-friendly Python project that collects personal information and demons
 
 ## 🧠 Concepts Practiced
 
-`input()` • Variables • Data Types • Type Conversion • `type()` • `id()` • Arithmetic • f-strings
+`input()` • Variables • Data Types  • `type()` • `id()` • Arithmetic • f-strings
 
 ## 🛠️ Technologies
 
-* Python 3
+* Python 
 * VS Code
 * Git & GitHub
 
@@ -73,6 +73,7 @@ Student_data/
 This project was created to strengthen **Python fundamentals** and understand how Python handles different data types and objects.
 
 ## 📸 Output
+![programe output](uotput.png)
 
 The `output.png` file contains a screenshot of the program execution.
 
@@ -80,6 +81,4 @@ The `output.png` file contains a screenshot of the program execution.
 
 **Virendra Nakum**
 
-*Python Learner | Data Science Enthusiast*
-
-⭐ If you find this project useful, consider giving it a star!
+ 

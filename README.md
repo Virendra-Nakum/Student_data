@@ -62,10 +62,9 @@ python main.py
 ## 📂 Project Structure
 
 ```text
-Student_data/
+├── README.md
 ├── main.py
-├── output.png
-└── README.md
+└── output.png
 ```
 
 ## 🎯 Purpose
